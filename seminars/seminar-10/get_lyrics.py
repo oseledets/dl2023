@@ -1,5 +1,9 @@
 # GET IT HERE 
 # https://docs.genius.com/#/undefined
+
+# prerequisites 
+# pip install git+https://github.com/johnwmillr/LyricsGenius.git
+
 client_access_token = ""
 
 import re
